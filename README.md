@@ -1,8 +1,9 @@
 # LoanDefault
 
-Decision support system for banks on loan agreement. \n
+Decision support system for banks on loan agreement. 
+<br/>
 Dataset : https://www.kaggle.com/laotse/credit-risk-dataset
-\n Pipeline : 
+<br/> Pipeline : 
 - Suppression of outliers & conversion of non-numeric features into binary or one-hot vector
 - Splitting into training and test set
 - Choice of metrics 
