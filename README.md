@@ -11,4 +11,6 @@ Dataset : https://www.kaggle.com/laotse/credit-risk-dataset
 - Reduction of features using PCA and comparing scores with and without PCA
 - Choice of the best model 
 
+<br/> See report (french) for a detailed analysis 
+
 Tools : Scikit-Learn, Pandas, Matplotlib and Numpy
